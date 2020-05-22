@@ -105,6 +105,8 @@ Inside the Index.razor components to call customer component using anchor tag
 <a class="btn btn-danger" href="/customerview">Customer Page : Razor Class Library</a>
 
 
-
+Step 9:
+In _Layout page add following tag inside the head tag
+<base href="/" />
 
 
